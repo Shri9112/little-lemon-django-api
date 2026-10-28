@@ -1,0 +1,9 @@
+/api/menu/
+/api/menu/<id>/
+/api/bookings/
+/api/bookings/<id>/
+/api/registration/
+/api/login/
+/api/logout/
+/api/
+/
